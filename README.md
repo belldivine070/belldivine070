@@ -38,11 +38,10 @@ I build web applications that solve everyday problems—with a soft spot for bac
 
 | Project | What it does | Links |
 | :--- | :--- | :--- |
-| **EduFlow** | School management platform for administration, student records, and academics | [Repo](https://github.com/belldivine070/EduFlow) · [Live](https://eduflow-kw91.onrender.com/platform/schools/b9463a56-306d-4676-8bd8-e38fd1d8101a/edit/) |
+| **EduFlow - Multi-Tenant School SaaS** | Shared multi-school architecture (Django, PostgreSQL, RBAC) for admissions, exams, attendance, billing, inventory & support |(https://github.com/belldivine070/EduFlow) · [Live](https://eduflow-kw91.onrender.com/platform/schools/b9463a56-306d-4676-8bd8-e38fd1d8101a/edit/) |
 | **Django E-Commerce** | Online store covering catalog browsing, cart flow, and order handling | [Live](https://e-commerce-4qiw.onrender.com) |
 | **Hostel Management** | Hostel operations & records web app with a Vite frontend | [Live](https://hostel-frontend-cotk.onrender.com) |
 | **LMSN Limited** | Pharmacy & supermarket storefront with inventory, orders, and payments | [Website](https://lmsnlimited.com) |
-| **Multi-Tenant School SaaS** | Shared multi-school architecture (Django, PostgreSQL, RBAC) for admissions, exams, attendance, billing, inventory & support | *In active build* |
 
 <details>
 <summary><strong>More builds & Emiserve client work</strong> (Real Estate, Logistics, Emarid College, Flocare Int'l School)</summary>
